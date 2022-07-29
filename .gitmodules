@@ -1,0 +1,3 @@
+[submodule "test-3"]
+	path = test-3
+	url = https://github.com/jkelroy/test-3.git
